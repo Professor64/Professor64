@@ -1,6 +1,6 @@
 # Hartin Bruncaj, BS in Biochemistry
 
-## 🔥🔥🔥I am Hartin Bruncaj, a junior graduating at Binghamton University studying [Biochemistry](https://www.binghamton.edu/biochemistry-and-chemical-biology/undergraduate/index.html)! I use github for side web development projects and python api projects. An example is a static webpage that relies on weather.gov and images to tells you the weather at any location in the United States. Another idea I did was made a sample design page for coding. My goal is to make data processing and easier. 🔥🔥🔥
+## 🔥🔥🔥I am Hartin Bruncaj, a senior graduating at Binghamton University studying [Biochemistry](https://www.binghamton.edu/biochemistry-and-chemical-biology/undergraduate/index.html)! I use github for side web development projects and python api projects. An example is a static webpage that relies on weather.gov and images to tells you the weather at any location in the United States. Another idea I did was made a sample design page for coding. My goal is to make data processing and easier. 🔥🔥🔥
 *I hope you enjoy the place!*
 
 You might find coursework related to my Digital and Data Studies [DIDA](https://www.binghamton.edu/harpur/degrees/digital-data/index.html) minor in my repositories which includes:
