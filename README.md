@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hartin Bruncaj, BS in Biochemistry
+
+I am Hartin Bruncaj, a junior graduating at Binghamton University! I use github for side web development projects and python api projects. 
+*I hope you enjoy the place!*
+
+
 
 <!--
 **Professor64/Professor64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
